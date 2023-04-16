@@ -1,3 +1,5 @@
 # ReactJS
 
-리액트를 공부해요
+branch</br>
+*main<br>
+*<b>nomad</b> (now)
